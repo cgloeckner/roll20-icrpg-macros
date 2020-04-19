@@ -1,0 +1,1 @@
+&{template:default} {{name=Attacking @{Selected|name} }} {{Check=[[1d20+?{Check-Bonus|0}]] }}

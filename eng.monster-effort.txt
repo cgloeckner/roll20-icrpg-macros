@@ -1,0 +1,1 @@
+&{template:default} {{name=Attacking @{Selected|name} }} {{Effort=[[?{Check-Level|1}d?{Check-Dice|4|6|8|12}+?{Check-Bonus|0}]] }}

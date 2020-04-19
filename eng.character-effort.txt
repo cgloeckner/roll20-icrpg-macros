@@ -1,0 +1,10 @@
+?{Choose Power|
+Basic, 
+ &{template:default} {{name=@{Selected|name} Effort}} {{Basic=[[1d4+@{Selected|basic}]]}}  |
+Weapon, 
+ &{template:default} {{name=@{Selected|name} Effort}} {{Weapon=[[1d6+@{Selected|weapon}]]}}  |
+Magic, 
+ &{template:default} {{name=@{Selected|name} Effort}} {{Magic=[[1d8+@{Selected|magic}]]}}  |
+Ultimate, 
+ &{template:default} {{name=@{Selected|name} Effort}} {{Ultimate=[[1d12+@{Selected|ult}]]}}  |
+}

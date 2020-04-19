@@ -1,0 +1,1 @@
+&{template:default} {{name=Angriff auf @{Selected|name} }} {{Probe=[[1d20+?{Check-Bonus|0}]] }}

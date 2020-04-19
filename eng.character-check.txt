@@ -1,0 +1,15 @@
+?{Choose Stat|
+ STR, 
+ &{template:default} {{name=@{Selected|name} Checks}} {{Strength=[[1d20+@{Selected|strength}]]}} |
+DEX,
+ &{template:default} {{name=@{Selected|name} Checks}} {{Dexterity=[[1d20+@{Selected|Dexterity}]]}} |
+CON,
+ &{template:default} {{name=@{Selected|name} Checks}} {{Constitution=[[1d20+@{Selected|Constitution}]]}}|
+INT,
+ &{template:default} {{name=@{Selected|name} Checks}} {{Intelligence=[[1d20+@{Selected|Intelligence}]]}} |
+WIS,
+ &{template:default} {{name=@{Selected|name} Checks}} {{Wisdom=[[1d20+@{Selected|Wisdom}]]}} |
+CHA,
+ &{template:default} {{name=@{Selected|name} Checks}} {{Charisma=[[1d20+@{Selected|Charisma}]]}}|
+}
+

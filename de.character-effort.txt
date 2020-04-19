@@ -1,0 +1,10 @@
+?{Wähle Wirkung|
+Bemühung, 
+ &{template:default} {{name=@{Selected|name} Wirkung}} {{Bemühung=[[1d4+@{Selected|basic}]]}}  |
+Waffenschaden, 
+ &{template:default} {{name=@{Selected|name} Wirkung}} {{Waffenschaden=[[1d6+@{Selected|weapon}]]}}  |
+Zauberwirkung, 
+ &{template:default} {{name=@{Selected|name} Wirkung}} {{Zauberwirkung=[[1d8+@{Selected|magic}]]}}  |
+Kritisch, 
+ &{template:default} {{name=@{Selected|name} Wirkung}} {{Kritisch=[[1d12+@{Selected|ult}]]}}  |
+}

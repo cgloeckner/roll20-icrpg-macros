@@ -1,0 +1,15 @@
+?{Wähle Attribut|
+ STÄ, 
+ &{template:default} {{name=@{Selected|name} Probe}} {{Stärke=[[1d20+@{Selected|strength}]]}} |
+GES,
+ &{template:default} {{name=@{Selected|name} Probe}} {{Geschick=[[1d20+@{Selected|Dexterity}]]}} |
+KON,
+ &{template:default} {{name=@{Selected|name} Probe}} {{Konstitution=[[1d20+@{Selected|Constitution}]]}}|
+INT,
+ &{template:default} {{name=@{Selected|name} Probe}} {{Intelligenz=[[1d20+@{Selected|Intelligence}]]}} |
+WEI,
+ &{template:default} {{name=@{Selected|name} Probe}} {{Weisheit=[[1d20+@{Selected|Wisdom}]]}} |
+CHA,
+ &{template:default} {{name=@{Selected|name} Probe}} {{Charisma=[[1d20+@{Selected|Charisma}]]}}|
+}
+
