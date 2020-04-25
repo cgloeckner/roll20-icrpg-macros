@@ -1,4 +1,1 @@
-/w gm &{template:default} {{name=Effort of @{Selected|name} }} {{Basic Effort: +[[@{Selected|basic}]]
-Weapon Damage: +[[@{Selected|magic}]]
-Magic Effect: +[[@{Selected|magic}]]
-Ultimate Effort: +[[@{Selected|ult}]]}}
+/w gm &{template:default} {{name=Effort of @{Selected|name} }} {{Basic Effort=[[@{Selected|basic}]]}} {{Weapon Damage=[[@{Selected|weapon}]]}} {{Magic Effect=[[@{Selected|magic}]]}} {{Ultimate Effort=[[@{Selected|ult}]]}}
