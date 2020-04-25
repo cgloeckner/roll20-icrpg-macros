@@ -1,0 +1,6 @@
+/w gm &{template:default} {{name=Stats of @{Selected|name} }} {{Strength: +[[@{Selected|strength}]]
+Dexterity: +[[@{Selected|Dexterity}]]
+Constitution: +[[@{Selected|Constitution}]]
+Intelligence: +[[@{Selected|Intelligence}]]
+Wisdom: +[[@{Selected|Wisdom}]]
+Charisma: +[[@{Selected|Charisma}]]}}
